@@ -21,7 +21,7 @@ public class SeperateLoops {
 
         // Second loop: Iterating through array (this is not needed for reversal but done as per the request)
         for (int i = 0; i < n; i++) {
-            // Just iterating, no changes
+
         }
 
         System.out.println("Reversed Array: " + Arrays.toString(inputArray));
